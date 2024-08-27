@@ -10,9 +10,9 @@ public class Main2 {
 
         // Определяем количество бонусных рублей
         int bonus = 0;
-            if (topUpAmount > 1000) {
-              bonus = (topUpAmount / 100);
-            }
+        if (topUpAmount > 1000) {
+            bonus = (topUpAmount / 100);
+        }
 
 
         // Выводим результаты
